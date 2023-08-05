@@ -16,6 +16,7 @@ menu:
   List||fas fa-list:
     Music: /music/ || fas fa-music
     Movie: /movies/ || fas fa-video
+    Talk: /artitalk/ || fa fa-comments-o
   Link: /link/ || fas fa-link
   About: /about/ || fas fa-heart
 
