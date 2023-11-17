@@ -21,3 +21,11 @@
       link: https://twitter.com/
       avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
       descr: 社交分享平台
+    - name: DigitalOcean
+      link: https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN
+      avatar:   https://cn.bing.com/images/search?view=detailV2&ccid=gxNVIbQA&id=346BB93B8E13B0B47E0523F962CA5C19554A6786&thid=OIP.gxNVIbQAtRm3NRwkmBb36wHaE8&mediaurl=https%3a%2f%2fdownload.logo.wine%2flogo%2fDigitalOcean%2fDigitalOcean-Logo.wine.png&exph=2000&expw=3000&q=digitalocean&simid=608002352770786574&FORM=IRPRST&ck=B9EEF8CF25C906E4EAE040C55F08B58C&selectedIndex=18
+      descr: 在线Nginx配置
+    - name: Element+
+      link: https://element-plus.gitee.io/zh-CN/
+      avatar:
+      descr: Element+
