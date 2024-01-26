@@ -29,3 +29,21 @@
       link: https://element-plus.gitee.io/zh-CN/
       avatar:
       descr: Element+
+    - name: play with docker
+      link: https://labs.play-with-docker.com/
+      avatar:
+      descr: online docker
+    - name: 美团技术团队
+      link: https://https://tech.meituan.com/
+      avatar:
+      descr: 美团技术团队
+    - name: Thoughtworks洞见
+      link: https://insights.thoughtworks.cn/
+      avatar:
+      descr: Thoughtworks洞见
+    - name: 360技术
+      link: https://blogs.360.cn/
+      avatar:
+      descr: 360技术
+
+
